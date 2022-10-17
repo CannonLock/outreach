@@ -11,6 +11,7 @@ This repository contains the documents for the OSG Outreach Area.
 
 ## Resources
 
+
 - [Travis-CI integration](https://djw8605.github.io/2017/02/08/deploying-docs-on-github-with-travisci/)
 - [mkdocs documentation](http://www.mkdocs.org/)
 - [Modify mkdoc themes (Jinja2 documentation)](http://jinja.pocoo.org/docs/dev/templates/)
